@@ -19,7 +19,10 @@ compartiment E.
 
 The evolution of the epidemy is governed by the following system of ordinary differential equations (where the unit of time is the day) which gives the "number" of individuals present in each compartment :
 
-<img width="430" alt="Capture d’écran 2022-06-18 à 16 05 00" src="https://user-images.githubusercontent.com/80846462/174442031-6132ec3d-cd39-492d-a6b1-f7de40126878.png">
+
+<p align="center">
+<img width="220" alt="Capture d’écran 2022-06-18 à 16 05 00" src="https://user-images.githubusercontent.com/80846462/174442031-6132ec3d-cd39-492d-a6b1-f7de40126878.png">
+</p>
 
 
 This system maintains the size of the population:
