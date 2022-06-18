@@ -36,7 +36,7 @@ This is the number of daily hospitalisation, which can be taken to be equal to $
 ## The parameters : 
 
 - The transmission rate $\beta(t)$ is of the form : 
-<img width="595" alt="Capture d’écran 2022-06-18 à 16 37 49" src="https://user-images.githubusercontent.com/80846462/174443271-04183fc6-491d-4829-8da0-268f2f43cafe.png">
+<img width="455" alt="Capture d’écran 2022-06-18 à 16 37 49" src="https://user-images.githubusercontent.com/80846462/174443271-04183fc6-491d-4829-8da0-268f2f43cafe.png">
 
 
 The assumption is that before any containment measures are taken, the transmission rateis constant and decreases then when the measures are taken.
