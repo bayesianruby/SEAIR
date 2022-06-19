@@ -2,7 +2,7 @@
 
 The aim of this project is to conduct an uncertainty quantification analysis (including sensitivity analysis) on a complex model. The study of a compartmental (simplified) model appeared to be a natural choice.
 
-The SEIR (Susceptible-Exposed-Infected-Recovered) model that we present is a compartmental deterministic model that has been known for almost a century and has been used for many years. is a deterministic compartmental model that has been known for almost a century and used in in epidemiology since the 1980s. It is also the one used by epidemiologists studying COVID-19. This model is presented in the form of a system of the number of infected and contagious individuals, etc.
+The SEIR (Susceptible-Exposed-Infected-Recovered) model that we present is a compartmental deterministic model that has been known for almost a century and has been used for many years. It is a deterministic compartmental model that has been known for almost a century and used in in epidemiology since the 1980s. It is also the one used by epidemiologists studying COVID-19. This model is presented in the form of a system of the number of infected and contagious individuals, etc.
 
 In order to be representative of this 'epidemy', certain specific characteristics of COVID-19 were taken into account (presence of asymptomatic individuals) and we therefore propose to study here a SEAIR model (Susceptible, Asymptomatic, Infected, Established). We will not consider a complete model including regional and age stratification, but we will however, exploit data on hospitalizations collected by region.
 
